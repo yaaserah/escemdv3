@@ -10,7 +10,7 @@ global.APIs = {
 // Apikey Website Api
 global.APIKeys = {
         'https://hardianto.xyz': 'hardianto',
-        'https://zenzapi.xyz': 'YourApikey', //Untuk Mendapatkan Apikey Silahkan Register Di : https://zenzapi.xyz
+        'https://zenzapi.xyz': 'sanzychan01', //Untuk Mendapatkan Apikey Silahkan Register Di : https://zenzapi.xyz
         
 }
 
@@ -18,12 +18,12 @@ global.APIKeys = {
 // Other
 global.Prefix = 'Multi'
 global.modelMenu = 'locButton'
-global.owner = ['6285878313791']
-global.premium = ['6285878313791']
-global.meki = '6285878313791'
-global.ownerNumber = '6285878313791'
-global.packname = '✨ 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳 ✨'
-global.author = 'Ｃｈｉｔａｎｄａ - ＭＤ'
+global.owner = ['6282174006859']
+global.premium = ['6282174006859']
+global.meki = '6282174006859'
+global.ownerNumber = '6282174006859'
+global.packname = 'NINE99Ory'
+global.author = 'NINE99,Ory`'
 global.sessionName = 'kizakixd'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.Mode = 'Public'
